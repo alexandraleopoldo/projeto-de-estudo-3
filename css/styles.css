@@ -151,12 +151,12 @@ h3 {
 }
 
 #secao-formulario {
-    background-color: aqua;
+    background-color: rgb(79, 41, 249);
     width: 40%;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url(../img/pattern.png);
+    background-image: url(./img/pattern.png);
    
     /* min-width: 426px; */
 }
